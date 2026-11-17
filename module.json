@@ -1,0 +1,28 @@
+{
+  "id": "effect-select",
+  "title": "Effect Select",
+  "description": "Adds a searchable dropdown to the Attribute Key field of Active Effect changes. Start typing and it suggests matching keys from the game system's data, with readable labels. Works with any system; extra labels and flags for D&D 5e.",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "Slam Hammerfist" }
+  ],
+  "url": "https://github.com/SlamHammerfist/effect-select",
+  "manifest": "https://github.com/SlamHammerfist/effect-select/releases/latest/download/module.json",
+  "download": "https://github.com/SlamHammerfist/effect-select/releases/download/v1.0.0/module.zip",
+  "bugs": "https://github.com/SlamHammerfist/effect-select/issues",
+  "readme": "https://github.com/SlamHammerfist/effect-select/blob/main/README.md",
+  "changelog": "https://github.com/SlamHammerfist/effect-select/blob/main/CHANGELOG.md",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": [
+    "scripts/effect-select.mjs"
+  ],
+  "styles": [
+    "styles/effect-select.css"
+  ],
+  "languages": [
+    { "lang": "en", "name": "English", "path": "lang/en.json" }
+  ]
+}

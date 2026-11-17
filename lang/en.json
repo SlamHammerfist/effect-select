@@ -1,0 +1,28 @@
+{
+  "EFFECTSELECT": {
+    "Browse": "Browse attribute keys",
+    "NoMatch": "No matching keys. Any key you type is still saved.",
+    "More": "{count} more. Keep typing to narrow the list.",
+    "Flags": "Flags",
+    "Document": "Document",
+    "Name": "Name",
+    "Image": "Image",
+    "OnlyFor": "Only {types}",
+    "UsedInWorld": "Used in this world",
+    "UsedCount": "Used {count}×",
+    "Settings": {
+      "WorldKeys": {
+        "Name": "List keys used in this world",
+        "Hint": "Also suggest keys that effects in this world already use but the system doesn't define, such as other modules' flags."
+      },
+      "OpenOnFocus": {
+        "Name": "Open list on focus",
+        "Hint": "Show the key list as soon as you click into an empty Attribute Key field, before you type."
+      },
+      "ShowLabels": {
+        "Name": "Show labels in the field",
+        "Hint": "Hovering the Attribute Key field shows the readable name of the key it holds."
+      }
+    }
+  }
+}
